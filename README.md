@@ -11,18 +11,22 @@ Each project is designed to demonstrate practical applications of data science c
 Getting Started
 
 To get started with the projects in this repository:
+
 Clone the repository:
 bash
-git clone https://github.com/yourusername/data-science-projects.git
+https://github.com/Alsa8676/Data_Science_Projects.git
+
 
 Navigate to the project directory:
 bash
-cd data-science-projects
+cd Data_Science_Projects
+
 
 Install required packages:
 Make sure you have Python installed. You can create a virtual environment and install dependencies using:
 bash
 pip install -r requirements.txt
+
 
 Run the scripts:
 Each project folder contains a main Python script that can be executed directly.
