@@ -1,5 +1,7 @@
 Data Science Projects Repository
-Welcome to the Data Science Projects Repository! This repository is a curated collection of various data science projects, showcasing a range of techniques and methodologies utilized in the field. Each project includes Python scripts and relevant data files, providing a hands-on approach to understanding data analysis, machine learning, and visualization.
+
+Welcome to the Data Science Projects Repository! 
+This repository is a curated collection of various data science projects, showcasing a range of techniques and methodologies utilized in the field. Each project includes Python scripts and relevant data files, providing a hands-on approach to understanding data analysis, machine learning, and visualization.
 
 Project Overview
 This repository features diverse projects that cover:
@@ -29,4 +31,4 @@ pip install -r requirements.txt
 
 
 Run the scripts:
-Each project folder contains a main Python script that can be executed directly.
+Put each Project file in Each project folder contains a main Python script that can be executed directly.
